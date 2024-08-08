@@ -2,3 +2,45 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-Playtype.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-Bold-Playtype.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-DemiBold-Playtype.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-Heavy-Playtype.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-Light-Playtype.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hill';
+  src: url('/assets/fonts/Hill typo/Hill/Hill-Thin-Playtype.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
